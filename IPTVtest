@@ -373,7 +373,7 @@ http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160498
 #EXTINF:-1 tvg-id="" tvg-name="IR | Tehran TV24" tvg-logo="" group-title="Iran",IR | Tehran TV24
 http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/160497
 
-#EXTM3U
+
 #EXTINF:-1 tvg-name="*** AFGHANISTAN - github.com/free-iptv" group-title="AFGHANISTAN" tvg-logo="https://i.imgur.com/f7pAUiw.png",*** AFGHANISTAN - github.com/free-iptv
 https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 #EXTINF:-1 tvg-name="Andisheh" tvg-logo="https://i.imgur.com/yCFIC60.jpg" group-title="AFGHANISTAN",Andisheh
