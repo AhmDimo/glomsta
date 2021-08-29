@@ -473,357 +473,496 @@ https://5caf24a595d94.streamlock.net:1937/8132/8132/playlist.m3u8
 https://59d39900ebfb8.streamlock.net/8484/8484/playlist.m3u8
 0 comments on commit e8f57cd
 
-#EXTINF:-1 tvg-id="svt1.se" tvg-name="SVT1 HD SE" tvg-logo="https://logo.iptveditor.com/svt1.png" group-title="Sweden",SVT1 HD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/320
-#EXTINF:-1 tvg-id="svt2.se" tvg-name="SVT2 HD SE" tvg-logo="https://logo.iptveditor.com/svt2.png" group-title="Sweden",SVT2 HD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/321
-#EXTINF:-1 tvg-id="tv3.se" tvg-name="TV3 FHD SE" tvg-logo="https://logo.iptveditor.com/tv3.png" group-title="Sweden",TV3 FHD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/322
-#EXTINF:-1 tvg-id="tv3.se" tvg-name="TV3 HD SE" tvg-logo="https://logo.iptveditor.com/tv3.png" group-title="Sweden",TV3 HD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/156899
-#EXTINF:-1 tvg-id="tv4.se" tvg-name="TV4 FHD SE" tvg-logo="https://logo.iptveditor.com/tv4.png" group-title="Sweden",TV4 FHD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/155157
-#EXTINF:-1 tvg-id="tv4.se" tvg-name="TV4 HD SE" tvg-logo="https://logo.iptveditor.com/tv4.png" group-title="Sweden",TV4 HD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/323
-#EXTINF:-1 tvg-id="tv4.se" tvg-name="TV4 SD SE" tvg-logo="https://logo.iptveditor.com/tv4.png" group-title="Sweden",TV4 SD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/14873
-#EXTINF:-1 tvg-id="kanal5.se" tvg-name="Kanal 5 FHD SE" tvg-logo="http://iptvnordic.tv/se/5.png" group-title="Sweden",Kanal 5 FHD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/14874
-#EXTINF:-1 tvg-id="kanal5.se" tvg-name="Kanal 5 HD SE" tvg-logo="http://iptvnordic.tv/se/5.png" group-title="Sweden",Kanal 5 HD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/324
-#EXTINF:-1 tvg-id="tv6.se" tvg-name="TV6 FHD SE" tvg-logo="https://logo.iptveditor.com/tv6.png" group-title="Sweden",TV6 FHD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/325
-#EXTINF:-1 tvg-id="tv6.se" tvg-name="TV6 HD SE" tvg-logo="https://logo.iptveditor.com/tv6.png" group-title="Sweden",TV6 HD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/156896
-#EXTINF:-1 tvg-id="sjuan.se" tvg-name="Sjuan FHD SE" tvg-logo="http://iptvnordic.tv/se/sjuan.png" group-title="Sweden",Sjuan FHD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/156895
-#EXTINF:-1 tvg-id="sjuan.se" tvg-name="Sjuan HD SE" tvg-logo="http://iptvnordic.tv/se/sjuan.png" group-title="Sweden",Sjuan HD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/326
-#EXTINF:-1 tvg-id="tv8.se" tvg-name="TV8 FHD SE" tvg-logo="http://iptvnordic.tv/se/8.png" group-title="Sweden",TV8 FHD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/156894
-#EXTINF:-1 tvg-id="tv8.se" tvg-name="TV8 HD SE" tvg-logo="http://iptvnordic.tv/se/8.png" group-title="Sweden",TV8 HD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/327
-#EXTINF:-1 tvg-id="kanal9.se" tvg-name="Kanal 9 FHD SE" tvg-logo="http://iptvnordic.tv/se/9.png" group-title="Sweden",Kanal 9 FHD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/14878
-#EXTINF:-1 tvg-id="kanal9.se" tvg-name="Kanal 9 HD SE" tvg-logo="http://iptvnordic.tv/se/9.png" group-title="Sweden",Kanal 9 HD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/328
-#EXTINF:-1 tvg-id="tv10.se" tvg-name="TV10 FHD SE" tvg-logo="https://logo.iptveditor.com/tv10.png" group-title="Sweden",TV10 FHD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/156897
-#EXTINF:-1 tvg-id="tv10.se" tvg-name="TV10 HD SE" tvg-logo="https://logo.iptveditor.com/tv10.png" group-title="Sweden",TV10 HD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/329
-#EXTINF:-1 tvg-id="kanal11.se" tvg-name="Kanal 11 FHD SE" tvg-logo="http://iptvnordic.tv/se/11.png" group-title="Sweden",Kanal 11 FHD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/14880
-#EXTINF:-1 tvg-id="kanal11.se" tvg-name="Kanal 11 HD SE" tvg-logo="http://iptvnordic.tv/se/11.png" group-title="Sweden",Kanal 11 HD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/330
-#EXTINF:-1 tvg-id="tv12.se" tvg-name="TV12 FHD SE" tvg-logo="https://logo.iptveditor.com/tv12.png" group-title="Sweden",TV12 FHD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/14881
-#EXTINF:-1 tvg-id="tv12.se" tvg-name="TV12 HD SE" tvg-logo="https://logo.iptveditor.com/tv12.png" group-title="Sweden",TV12 HD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/331
-#EXTINF:-1 tvg-id="boomerang.se" tvg-name="Boomerang SE" tvg-logo="https://logo.iptveditor.com/boomerang.png" group-title="Sweden",Boomerang SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/339
-#EXTINF:-1 tvg-id="disneychannel.se" tvg-name="Disney Channel SE" tvg-logo="https://logo.iptveditor.com/disneychannel.png" group-title="Sweden",Disney Channel SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/333
-#EXTINF:-1 tvg-id="disneyjunior.se" tvg-name="Disney Junior SE" tvg-logo="https://logo.iptveditor.com/disneyjunior.png" group-title="Sweden",Disney Junior SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/334
-#EXTINF:-1 tvg-id="" tvg-name="Disney + SE" tvg-logo="https://logo.iptveditor.com/disney+.png" group-title="Sweden",Disney + SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/58962
-#EXTINF:-1 tvg-id="" tvg-name="Disney + Classic Series SE" tvg-logo="http://iptvnordic.tv/se/Ntxplay_web.png" group-title="Sweden",Disney + Classic Series SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/58984
-#EXTINF:-1 tvg-id="cartoonnetwork.se" tvg-name="Cartoon Network SE" tvg-logo="https://logo.iptveditor.com/cartoonnetwork.png" group-title="Sweden",Cartoon Network SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/332
-#EXTINF:-1 tvg-id="nickjr.se" tvg-name="Nick Jr SE" tvg-logo="https://logo.iptveditor.com/nickjr.png" group-title="Sweden",Nick Jr SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/336
-#EXTINF:-1 tvg-id="nickelodeon.se" tvg-name="Nickelodeon SE" tvg-logo="https://logo.iptveditor.com/nickelodeon.png" group-title="Sweden",Nickelodeon SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/337
-#EXTINF:-1 tvg-id="nicktoons.se" tvg-name="NickToons SE" tvg-logo="https://logo.iptveditor.com/nicktoons.png" group-title="Sweden",NickToons SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/338
-#EXTINF:-1 tvg-id="kunskapskanalen.se" tvg-name="SVT Kunskapskanalen HD SE" tvg-logo="https://logo.iptveditor.com/svtkunskapskanalen.png" group-title="Sweden",SVT Kunskapskanalen HD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/341
-#EXTINF:-1 tvg-id="svt24.se" tvg-name="SVT24/B HD SE" tvg-logo="http://iptvnordic.tv/se/svtb_ny.png" group-title="Sweden",SVT24/B HD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/340
-#EXTINF:-1 tvg-id="nxt-barnfilm" tvg-name="NXT Play - Kids Animerat" tvg-logo="http://iptvnordic.tv/se/Ntxplay_web.png" group-title="Sweden",NXT Play - Kids Animerat
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/101489
-#EXTINF:-1 tvg-id="nxt-barnsånger" tvg-name="NXT Play - Barnmusik" tvg-logo="http://iptvnordic.tv/se/Ntxplay_web.png" group-title="Sweden",NXT Play - Barnmusik
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/100975
-#EXTINF:-1 tvg-id="nxt-ducktales" tvg-name="NXT Play - DuckTales" tvg-logo="http://iptvnordic.tv/se/Ntxplay_web.png" group-title="Sweden",NXT Play - DuckTales
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/101482
-#EXTINF:-1 tvg-id="nxt-gooftroop" tvg-name="NXT Play - GoofTroop" tvg-logo="http://iptvnordic.tv/se/Ntxplay_web.png" group-title="Sweden",NXT Play - GoofTroop
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/100981
-#EXTINF:-1 tvg-id="nxt-bumbibjornarna" tvg-name="NXT Play - Bumbibjörnarna" tvg-logo="http://iptvnordic.tv/se/Ntxplay_web.png" group-title="Sweden",NXT Play - Bumbibjörnarna
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/100980
-#EXTINF:-1 tvg-id="cmorefotboll.se" tvg-name="C More Fotboll FHD SE" tvg-logo="https://logo.iptveditor.com/cmorefotboll.png" group-title="Sweden",C More Fotboll FHD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/344
-#EXTINF:-1 tvg-id="" tvg-name="C More Fotboll HD B" tvg-logo="" group-title="Sweden",C More Fotboll HD B
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/163670
-#EXTINF:-1 tvg-id="cmoregolf.se" tvg-name="C More Golf FHD SE" tvg-logo="https://logo.iptveditor.com/cmoregolf.png" group-title="Sweden",C More Golf FHD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/345
-#EXTINF:-1 tvg-id="" tvg-name="C More Golf HD B" tvg-logo="" group-title="Sweden",C More Golf HD B
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/163671
-#EXTINF:-1 tvg-id="cmorehockey.se" tvg-name="C More Hockey FHD SE" tvg-logo="https://logo.iptveditor.com/cmorehockey.png" group-title="Sweden",C More Hockey FHD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/346
-#EXTINF:-1 tvg-id="" tvg-name="C More Hockey HD B" tvg-logo="" group-title="Sweden",C More Hockey HD B
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/163677
-#EXTINF:-1 tvg-id="cmorelive.se" tvg-name="C More Live FHD SE" tvg-logo="http://iptvnordic.tv/se/live.png" group-title="Sweden",C More Live FHD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/347
-#EXTINF:-1 tvg-id="" tvg-name="C More Live HD B" tvg-logo="" group-title="Sweden",C More Live HD B
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/163676
-#EXTINF:-1 tvg-id="cmorelive2.se" tvg-name="C More Live 2 FHD SE" tvg-logo="http://iptvnordic.tv/se/live2.png" group-title="Sweden",C More Live 2 FHD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/348
-#EXTINF:-1 tvg-id="" tvg-name="C More Live 2 HD B" tvg-logo="" group-title="Sweden",C More Live 2 HD B
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/163675
-#EXTINF:-1 tvg-id="cmorelive3.se" tvg-name="C More Live 3 FHD SE" tvg-logo="http://iptvnordic.tv/se/live3.png" group-title="Sweden",C More Live 3 FHD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/349
-#EXTINF:-1 tvg-id="" tvg-name="C More Live 3 HD B" tvg-logo="" group-title="Sweden",C More Live 3 HD B
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/163674
-#EXTINF:-1 tvg-id="cmorelive4.se" tvg-name="C More Live 4 FHD SE" tvg-logo="https://logo.iptveditor.com/cmore4.png" group-title="Sweden",C More Live 4 FHD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/350
-#EXTINF:-1 tvg-id="" tvg-name="C More Live 4 HD B" tvg-logo="" group-title="Sweden",C More Live 4 HD B
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/163673
-#EXTINF:-1 tvg-id="cmorelive5.se" tvg-name="C More Live 5 FHD SE" tvg-logo="https://logo.iptveditor.com/cmore5.png" group-title="Sweden",C More Live 5 FHD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/351
-#EXTINF:-1 tvg-id="" tvg-name="C More Live 5 HD B" tvg-logo="" group-title="Sweden",C More Live 5 HD B
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/163672
-#EXTINF:-1 tvg-id="sportkanalen.se" tvg-name="Sportkanalen FHD SE" tvg-logo="https://logo.iptveditor.com/sportkanalen.png" group-title="Sweden",Sportkanalen FHD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/352
-#EXTINF:-1 tvg-id="" tvg-name="Sportkanalen FHD B" tvg-logo="" group-title="Sweden",Sportkanalen FHD B
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/163669
-#EXTINF:-1 tvg-id="viasatfotboll.se" tvg-name="V Sport Fotboll FHD SE" tvg-logo="http://iptvnordic.tv/se/Vsportfotboll.png" group-title="Sweden",V Sport Fotboll FHD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/356
-#EXTINF:-1 tvg-id="" tvg-name="V Sport Fotboll HD B" tvg-logo="" group-title="Sweden",V Sport Fotboll HD B
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/163682
-#EXTINF:-1 tvg-id="viasatgolf.se" tvg-name="V Sport Golf FHD SE" tvg-logo="https://logo.iptveditor.com/vsportgolf.png" group-title="Sweden",V Sport Golf FHD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/357
-#EXTINF:-1 tvg-id="" tvg-name="V Sport Golf HD B" tvg-logo="" group-title="Sweden",V Sport Golf HD B
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/163681
-#EXTINF:-1 tvg-id="viasathockey.se" tvg-name="V Sport Hockey FHD SE" tvg-logo="http://iptvnordic.tv/se/Vsporthockey.png" group-title="Sweden",V Sport Hockey FHD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/358
-#EXTINF:-1 tvg-id="" tvg-name="V Sport Hockey HD B" tvg-logo="" group-title="Sweden",V Sport Hockey HD B
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/163680
-#EXTINF:-1 tvg-id="viasatmotor.se" tvg-name="V Sport Motor HD SE" tvg-logo="http://iptvnordic.tv/se/Vsportmotor.png" group-title="Sweden",V Sport Motor HD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/359
-#EXTINF:-1 tvg-id="" tvg-name="V Sport Motor FHD B" tvg-logo="" group-title="Sweden",V Sport Motor FHD B
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/163668
-#EXTINF:-1 tvg-id="" tvg-name="V Sport Extra FHD SE" tvg-logo="http://iptvnordic.tv/se/Vsportextra.png" group-title="Sweden",V Sport Extra FHD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/353
-#EXTINF:-1 tvg-id="viasatsport.se" tvg-name="V Sport 1 FHD SE" tvg-logo="https://logo.iptveditor.com/vsport1.png" group-title="Sweden",V Sport 1 FHD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/354
-#EXTINF:-1 tvg-id="" tvg-name="V Sport 1 HD B" tvg-logo="" group-title="Sweden",V Sport 1 HD B
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/163679
-#EXTINF:-1 tvg-id="viasatsportpremium.se" tvg-name="V Sport Premium FHD SE" tvg-logo="http://iptvnordic.tv/se/Vsportpremium.png" group-title="Sweden",V Sport Premium FHD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/355
-#EXTINF:-1 tvg-id="" tvg-name="V Sport Premium HD B" tvg-logo="" group-title="Sweden",V Sport Premium HD B
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/163678
-#EXTINF:-1 tvg-id="viasatultra.se" tvg-name="V Sport Ultra UHD SE" tvg-logo="http://iptvnordic.tv/se/Vsportultrahd.png" group-title="Sweden",V Sport Ultra UHD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/17617
-#EXTINF:-1 tvg-id="" tvg-name="SportExpressen HD SE" tvg-logo="http://iptvnordic.tv/se/expressen.png" group-title="Sweden",SportExpressen HD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/57931
-#EXTINF:-1 tvg-id="nflnetwork.us" tvg-name="NFL Network FHD SE" tvg-logo="https://logo.iptveditor.com/nflnetwork.png" group-title="Sweden",NFL Network FHD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/366
-#EXTINF:-1 tvg-id="atglive.se" tvg-name="ATG Live SE" tvg-logo="https://logo.iptveditor.com/atg.png" group-title="Sweden",ATG Live SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/401
-#EXTINF:-1 tvg-id="horseandcountry.se" tvg-name="Horse & Country TV SE" tvg-logo="https://logo.iptveditor.com/horse&countrytv.png" group-title="Sweden",Horse & Country TV SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/363
-#EXTINF:-1 tvg-id="eurosport.se" tvg-name="EuroSport 1 FHD SE" tvg-logo="https://logo.iptveditor.com/eurosport1.png" group-title="Sweden",EuroSport 1 FHD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/360
-#EXTINF:-1 tvg-id="eurosport.se" tvg-name="Eurosport 1 HD SE" tvg-logo="https://logo.iptveditor.com/eurosport1.png" group-title="Sweden",Eurosport 1 HD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/157103
-#EXTINF:-1 tvg-id="eurosport2.se" tvg-name="EuroSport 2 FHD SE" tvg-logo="https://logo.iptveditor.com/eurosport2.png" group-title="Sweden",EuroSport 2 FHD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/361
-#EXTINF:-1 tvg-id="eurosport2.se" tvg-name="Eurosport 2 HD SE" tvg-logo="https://logo.iptveditor.com/eurosport2.png" group-title="Sweden",Eurosport 2 HD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/157104
-#EXTINF:-1 tvg-id="cmorefirst.se" tvg-name="C More First FHD SE" tvg-logo="https://logo.iptveditor.com/cmorefirst.png" group-title="Sweden",C More First FHD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/370
-#EXTINF:-1 tvg-id="cmorehits.se" tvg-name="C More Hits FHD SE" tvg-logo="https://logo.iptveditor.com/cmorehits.png" group-title="Sweden",C More Hits FHD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/367
-#EXTINF:-1 tvg-id="cmoreseries.se" tvg-name="C More Series FHD SE" tvg-logo="https://logo.iptveditor.com/cmoreseries.png" group-title="Sweden",C More Series FHD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/369
-#EXTINF:-1 tvg-id="cmorestars.se" tvg-name="C More Stars FHD SE" tvg-logo="https://logo.iptveditor.com/cmorestars.png" group-title="Sweden",C More Stars FHD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/368
-#EXTINF:-1 tvg-id="viasatfilmaction.se" tvg-name="V Film Action FHD SE" tvg-logo="http://iptvnordic.tv/se/Vfilmaction.png" group-title="Sweden",V Film Action FHD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/371
-#EXTINF:-1 tvg-id="viasatfilmfamily.se" tvg-name="V Film Family SE" tvg-logo="http://iptvnordic.tv/se/Vfilmfamily.png" group-title="Sweden",V Film Family SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/373
-#EXTINF:-1 tvg-id="viasatfilmhits.se" tvg-name="V Film Hits FHD SE" tvg-logo="http://iptvnordic.tv/se/Vfilmhits.png" group-title="Sweden",V Film Hits FHD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/372
-#EXTINF:-1 tvg-id="viasatfilmpremiere.se" tvg-name="V Film Premiere FHD SE" tvg-logo="http://iptvnordic.tv/se/Vfilmpremiere.png" group-title="Sweden",V Film Premiere FHD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/374
-#EXTINF:-1 tvg-id="viasatseries.se" tvg-name="V Series FHD SE" tvg-logo="http://iptvnordic.tv/se/Vseries.png" group-title="Sweden",V Series FHD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/375
-#EXTINF:-1 tvg-id="sfkanalen.se" tvg-name="SF-Kanalen SE" tvg-logo="https://logo.iptveditor.com/sfkanalen.png" group-title="Sweden",SF-Kanalen SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/377
-#EXTINF:-1 tvg-id="tv4film.se" tvg-name="TV4 Film SE" tvg-logo="https://logo.iptveditor.com/tv4film.png" group-title="Sweden",TV4 Film SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/380
-#EXTINF:-1 tvg-id="tv4fakta.se" tvg-name="TV4 Fakta SE" tvg-logo="https://logo.iptveditor.com/tv4fakta.png" group-title="Sweden",TV4 Fakta SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/379
-#EXTINF:-1 tvg-id="tv4guld.se" tvg-name="TV4 Guld SE" tvg-logo="https://logo.iptveditor.com/tv4guld.png" group-title="Sweden",TV4 Guld SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/381
-#EXTINF:-1 tvg-id="paramountnetwork.se" tvg-name="Paramount Network SE" tvg-logo="https://logo.iptveditor.com/paramountnetwork.png" group-title="Sweden",Paramount Network SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/378
-#EXTINF:-1 tvg-id="" tvg-name="Fashion TV FHD" tvg-logo="" group-title="Sweden",Fashion TV FHD
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/155145
-#EXTINF:-1 tvg-id="" tvg-name="Food Network HD SE" tvg-logo="" group-title="Sweden",Food Network HD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/155144
-#EXTINF:-1 tvg-id="" tvg-name="Trace Urban HD SE" tvg-logo="" group-title="Sweden",Trace Urban HD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/155143
-#EXTINF:-1 tvg-id="" tvg-name="MTV Base SE" tvg-logo="" group-title="Sweden",MTV Base SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/155142
-#EXTINF:-1 tvg-id="" tvg-name="MTV Live SE" tvg-logo="" group-title="Sweden",MTV Live SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/155141
-#EXTINF:-1 tvg-id="" tvg-name="MTV Club SE" tvg-logo="" group-title="Sweden",MTV Club SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/155140
-#EXTINF:-1 tvg-id="" tvg-name="MTV Hits SE" tvg-logo="" group-title="Sweden",MTV Hits SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/155139
-#EXTINF:-1 tvg-id="" tvg-name="Mezzo Live HD SE" tvg-logo="" group-title="Sweden",Mezzo Live HD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/155138
-#EXTINF:-1 tvg-id="" tvg-name="TVG Network HD SE" tvg-logo="" group-title="Sweden",TVG Network HD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/155137
-#EXTINF:-1 tvg-id="" tvg-name="Nautical Channel HD SE" tvg-logo="" group-title="Sweden",Nautical Channel HD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/155136
-#EXTINF:-1 tvg-id="" tvg-name="Fight Sports HD SE" tvg-logo="" group-title="Sweden",Fight Sports HD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/155135
-#EXTINF:-1 tvg-id="" tvg-name="GINX eSports HD SE" tvg-logo="" group-title="Sweden",GINX eSports HD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/155134
-#EXTINF:-1 tvg-id="" tvg-name="World Poker Tour SE" tvg-logo="" group-title="Sweden",World Poker Tour SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/155133
-#EXTINF:-1 tvg-id="" tvg-name="Himlen TV7 SD SE" tvg-logo="" group-title="Sweden",Himlen TV7 SD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/155132
-#EXTINF:-1 tvg-id="bbcbrit.se" tvg-name="BBC Brit FHD SE" tvg-logo="https://logo.iptveditor.com/bbcbrit.png" group-title="Sweden",BBC Brit FHD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/383
-#EXTINF:-1 tvg-id="bbcearth.se" tvg-name="BBC Earth FHD SE" tvg-logo="https://logo.iptveditor.com/bbcearth.png" group-title="Sweden",BBC Earth FHD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/382
-#EXTINF:-1 tvg-id="eentertainment.se" tvg-name="E! Entertainment HD SE" tvg-logo="https://logo.iptveditor.com/eentertainment.png" group-title="Sweden",E! Entertainment HD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/81555
-#EXTINF:-1 tvg-id="cnninternational.us" tvg-name="CNN International SE" tvg-logo="https://logo.iptveditor.com/cnninternational.png" group-title="Sweden",CNN International SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/400
-#EXTINF:-1 tvg-id="" tvg-name="CNN Live FHD SE" tvg-logo="https://logo.iptveditor.com/cnn.png" group-title="Sweden",CNN Live FHD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/108668
-#EXTINF:-1 tvg-id="" tvg-name="CNBC HD SE" tvg-logo="https://logo.iptveditor.com/cnbc.png" group-title="Sweden",CNBC HD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/108669
-#EXTINF:-1 tvg-id="" tvg-name="Dagens Industri TV HD SE" tvg-logo="https://logo.iptveditor.com/dagensindustritv.png" group-title="Sweden",Dagens Industri TV HD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/402
-#EXTINF:-1 tvg-id="Expressen TV" tvg-name="Expressen TV HD SE" tvg-logo="https://logo.iptveditor.com/expressentv.png" group-title="Sweden",Expressen TV HD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/403
-#EXTINF:-1 tvg-id="animalplanet.se" tvg-name="Animal Planet FHD SE" tvg-logo="https://logo.iptveditor.com/animalplanet.png" group-title="Sweden",Animal Planet FHD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/384
-#EXTINF:-1 tvg-id="" tvg-name="CuriosityStream FHD SE" tvg-logo="https://logo.iptveditor.com/curiositystream.png" group-title="Sweden",CuriosityStream FHD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/81553
-#EXTINF:-1 tvg-id="discoverychannel.se" tvg-name="Discovery Channel FHD SE" tvg-logo="https://logo.iptveditor.com/discoverychannel.png" group-title="Sweden",Discovery Channel FHD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/386
-#EXTINF:-1 tvg-id="discoveryscience.se" tvg-name="Discovery Science SE" tvg-logo="https://logo.iptveditor.com/discoveryscience.png" group-title="Sweden",Discovery Science SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/385
-#EXTINF:-1 tvg-id="investigationdiscovery.se" tvg-name="Investigation Discovery SE" tvg-logo="https://logo.iptveditor.com/investigationdiscovery.png" group-title="Sweden",Investigation Discovery SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/387
-#EXTINF:-1 tvg-id="natgeo.se" tvg-name="National Geographic FHD SE" tvg-logo="https://logo.iptveditor.com/nationalgeographic.png" group-title="Sweden",National Geographic FHD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/388
-#EXTINF:-1 tvg-id="natgeowild.se" tvg-name="National Geographic Wild FHD SE" tvg-logo="https://logo.iptveditor.com/nationalgeographicwild.png" group-title="Sweden",National Geographic Wild FHD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/389
-#EXTINF:-1 tvg-id="" tvg-name="National Geographic Wild HD SE" tvg-logo="https://logo.iptveditor.com/natgeowild.png" group-title="Sweden",National Geographic Wild HD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/108648
-#EXTINF:-1 tvg-id="outdoorchannel.us" tvg-name="Outdoor Channel FHD SE" tvg-logo="https://logo.iptveditor.com/outdoorchannel.png" group-title="Sweden",Outdoor Channel FHD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/16182
-#EXTINF:-1 tvg-id="h2.se" tvg-name="H2 History FHD SE" tvg-logo="http://iptvnordic.tv/se/h2historytv.png" group-title="Sweden",H2 History FHD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/390
-#EXTINF:-1 tvg-id="history.se" tvg-name="History HD SE" tvg-logo="https://logo.iptveditor.com/history.png" group-title="Sweden",History HD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/391
-#EXTINF:-1 tvg-id="tlc.se" tvg-name="TLC FHD SE" tvg-logo="https://logo.iptveditor.com/tlc.png" group-title="Sweden",TLC FHD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/399
-#EXTINF:-1 tvg-id="mtv.se" tvg-name="MTV HD SE" tvg-logo="https://logo.iptveditor.com/mtv.png" group-title="Sweden",MTV HD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/396
-#EXTINF:-1 tvg-id="" tvg-name="MTV Rocks SE " tvg-logo="" group-title="Sweden",MTV Rocks SE 
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/108622
-#EXTINF:-1 tvg-id="vh1.se" tvg-name="VH1 SE" tvg-logo="https://logo.iptveditor.com/vh1.png" group-title="Sweden",VH1 SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/395
-#EXTINF:-1 tvg-id="travel.se" tvg-name="Travel Channel HD SE" tvg-logo="https://logo.iptveditor.com/travelchannel.png" group-title="Sweden",Travel Channel HD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/398
-#EXTINF:-1 tvg-id="viasatexplorer.se" tvg-name="Viasat Explorer FHD SE" tvg-logo="https://logo.iptveditor.com/viasatexplorer.png" group-title="Sweden",Viasat Explorer FHD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/392
-#EXTINF:-1 tvg-id="viasathistory.se" tvg-name="Viasat History FHD SE" tvg-logo="https://logo.iptveditor.com/viasathistory.png" group-title="Sweden",Viasat History FHD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/393
-#EXTINF:-1 tvg-id="viasatnature.se" tvg-name="Viasat Nature FHD SE" tvg-logo="https://logo.iptveditor.com/viasatnature.png" group-title="Sweden",Viasat Nature FHD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/394
-#EXTINF:-1 tvg-id="axesstv.se" tvg-name="Axess TV SE" tvg-logo="https://logo.iptveditor.com/axesstv.png" group-title="Sweden",Axess TV SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/16901
-#EXTINF:-1 tvg-id="" tvg-name="Godare SE" tvg-logo="http://iptvnordic.tv/se/godare.jpg" group-title="Sweden",Godare SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/18105
-#EXTINF:-1 tvg-id="" tvg-name="NXT Play - Live Concerts" tvg-logo="https://ibb.co/7kPFxPn" group-title="Sweden",NXT Play - Live Concerts
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/162582
-#EXTINF:-1 tvg-id="" tvg-name="NXT Play - Svenska Filmer -20/21" tvg-logo="http://iptvnordic.tv/se/Ntxplay_web.png" group-title="Sweden",NXT Play - Svenska Filmer -20/21
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/137464
-#EXTINF:-1 tvg-id="nxt-svenska-klassiker" tvg-name="NXT Play - Svenska Klassiker" tvg-logo="http://iptvnordic.tv/se/Ntxplay_web.png" group-title="Sweden",NXT Play - Svenska Klassiker
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/137463
-#EXTINF:-1 tvg-id="nxt-action" tvg-name="NXT Play - Action" tvg-logo="https://i.postimg.cc/LsZCwvnt/NXT-Play-3d-high-resolution-transparent-file.png" group-title="Sweden",NXT Play - Action
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/137596
-#EXTINF:-1 tvg-id="nxt-play-comedy-swe" tvg-name="NXT Play - Komedi" tvg-logo="http://iptvnordic.tv/se/Ntxplay_web.png" group-title="Sweden",NXT Play - Komedi
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/137462
-#EXTINF:-1 tvg-id="nxt-drama-swe" tvg-name="NXT Play - Drama" tvg-logo="https://ibb.co/7kPFxPn" group-title="Sweden",NXT Play - Drama
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/137684
-#EXTINF:-1 tvg-id="nxt-bio-swe" tvg-name="NXT Play - BioPremiär" tvg-logo="http://iptvnordic.tv/se/Ntxplay_web.png" group-title="Sweden",NXT Play - BioPremiär
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/128853
-#EXTINF:-1 tvg-id="" tvg-name="NXT Play - Fast and Furious" tvg-logo="https://ibb.co/7kPFxPn" group-title="Sweden",NXT Play - Fast and Furious
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/138850
-#EXTINF:-1 tvg-id="" tvg-name="NXT Play - StarWars" tvg-logo="http://iptvnordic.tv/se/Ntxplay_web.png" group-title="Sweden",NXT Play - StarWars
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/118426
-#EXTINF:-1 tvg-id="nxt-james-bond" tvg-name="NXT Play - James Bond" tvg-logo="http://iptvnordic.tv/se/Ntxplay_web.png" group-title="Sweden",NXT Play - James Bond
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/57418
-#EXTINF:-1 tvg-id="nxt-uti-bogda" tvg-name="NXT Play - Uti Bögda" tvg-logo="http://iptvnordic.tv/se/Ntxplay_web.png" group-title="Sweden",NXT Play - Uti Bögda
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/115259
-#EXTINF:-1 tvg-id="nxt-partaj" tvg-name="NXT Play - Partaj" tvg-logo="http://iptvnordic.tv/se/Ntxplay_web.png" group-title="Sweden",NXT Play - Partaj
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/100974
-#EXTINF:-1 tvg-id="nxt-mumbo-jumbo" tvg-name="NXT Play - Mumbo Jumbo" tvg-logo="http://iptvnordic.tv/se/Ntxplay_web.png" group-title="Sweden",NXT Play - Mumbo Jumbo
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/100973
-#EXTINF:-1 tvg-id="" tvg-name="NXT Play - Bäst i Test" tvg-logo="http://iptvnordic.tv/se/Ntxplay_web.png" group-title="Sweden",NXT Play - Bäst i Test
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/115260
-#EXTINF:-1 tvg-id="nxt-rena-rama-rolf" tvg-name="NXT Play - Rena Rama Rolf" tvg-logo="http://iptvnordic.tv/se/Ntxplay_web.png" group-title="Sweden",NXT Play - Rena Rama Rolf
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/115261
-#EXTINF:-1 tvg-id="nxt-leif-&amp;-billy" tvg-name="NXT Play - Leif &amp; Billy" tvg-logo="http://iptvnordic.tv/se/Ntxplay_web.png" group-title="Sweden",NXT Play - Leif &amp; Billy
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/57417
-#EXTINF:-1 tvg-id="nxt-parlamentet" tvg-name="NXT Play - Parlamentet" tvg-logo="http://iptvnordic.tv/se/Ntxplay_web.png" group-title="Sweden",NXT Play - Parlamentet
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/57426
-#EXTINF:-1 tvg-id="nxt-solsidan" tvg-name="NXT Play - Solsidan" tvg-logo="http://iptvnordic.tv/se/Ntxplay_web.png" group-title="Sweden",NXT Play - Solsidan
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/51822
-#EXTINF:-1 tvg-id="sweplay-top-gear" tvg-name="NXT Play - Top Gear" tvg-logo="http://iptvnordic.tv/se/Ntxplay_web.png" group-title="Sweden",NXT Play - Top Gear
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/72600
-#EXTINF:-1 tvg-id="the-grand-tour" tvg-name="NXT Play - The Grand Tour" tvg-logo="http://iptvnordic.tv/se/Ntxplay_web.png" group-title="Sweden",NXT Play - The Grand Tour
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/74862
-#EXTINF:-1 tvg-id="sweplay-weeds-7" tvg-name="NXT Play - Weeds" tvg-logo="http://iptvnordic.tv/se/Ntxplay_web.png" group-title="Sweden",NXT Play - Weeds
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/52281
-#EXTINF:-1 tvg-id="sweplay-family-guy" tvg-name="NXT Play - Family Guy" tvg-logo="http://iptvnordic.tv/se/Ntxplay_web.png" group-title="Sweden",NXT Play - Family Guy
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/75685
-#EXTINF:-1 tvg-id="two-and-a-half-men" tvg-name="NXT Play - Two And A Half Men" tvg-logo="http://iptvnordic.tv/se/Ntxplay_web.png" group-title="Sweden",NXT Play - Two And A Half Men
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/72360
-#EXTINF:-1 tvg-id="svt1.se" tvg-name="SVT1 Norrbotten SE" tvg-logo="https://logo.iptveditor.com/svt1.png" group-title="Sweden",SVT1 Norrbotten SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/156903
-#EXTINF:-1 tvg-id="svt1.se" tvg-name="SVT1 Västerbotten SE" tvg-logo="https://logo.iptveditor.com/svt1.png" group-title="Sweden",SVT1 Västerbotten SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/156902
-#EXTINF:-1 tvg-id="svt1.se" tvg-name="SVT1 Västernorrland SE" tvg-logo="https://logo.iptveditor.com/svt1.png" group-title="Sweden",SVT1 Västernorrland SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/156901
-#EXTINF:-1 tvg-id="svt1.se" tvg-name="SVT1 Väst SE" tvg-logo="https://logo.iptveditor.com/svt1.png" group-title="Sweden",SVT1 Väst SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/156900
-#EXTINF:-1 tvg-id="" tvg-name="SVT1 Gävleborg SE" tvg-logo="https://logo.iptveditor.com/svt1gävleborg.png" group-title="Sweden",SVT1 Gävleborg SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/134957
-#EXTINF:-1 tvg-id="" tvg-name="SVT1 Jämtland SE" tvg-logo="https://logo.iptveditor.com/svt1jämtland.png" group-title="Sweden",SVT1 Jämtland SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/134956
-#EXTINF:-1 tvg-id="" tvg-name="SVT1 Jönköping SE" tvg-logo="https://logo.iptveditor.com/svt1jönköping.png" group-title="Sweden",SVT1 Jönköping SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/134955
-#EXTINF:-1 tvg-id="" tvg-name="SVT1 Örebro SE" tvg-logo="https://logo.iptveditor.com/svt1örebro.png" group-title="Sweden",SVT1 Örebro SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/134954
-#EXTINF:-1 tvg-id="" tvg-name="SVT1 Öst SE" tvg-logo="https://logo.iptveditor.com/svt1öst.png" group-title="Sweden",SVT1 Öst SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/134953
-#EXTINF:-1 tvg-id="" tvg-name="SVT1 Dalarna SE" tvg-logo="https://logo.iptveditor.com/svt1dalarna.png" group-title="Sweden",SVT1 Dalarna SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/134952
-#EXTINF:-1 tvg-id="" tvg-name="SVT1 Värmland SE" tvg-logo="https://logo.iptveditor.com/svt1värmland.png" group-title="Sweden",SVT1 Värmland SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/134951
-#EXTINF:-1 tvg-id="" tvg-name="SVT1 Skåne SE" tvg-logo="" group-title="Sweden",SVT1 Skåne SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/156898
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel HD SE" tvg-logo="https://logo.iptveditor.com/discoverychannel.png" group-title="Sweden",Discovery Channel HD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/108653
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Showcase HD SE" tvg-logo="https://logo.iptveditor.com/discoveryshowcase.png" group-title="Sweden",Discovery Showcase HD SE
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/108652
-#EXTINF:-1 tvg-id="golf.viasat.se" tvg-name="V Sport Golf SE (Backup)" tvg-logo="https://logo.iptveditor.com/vsportgolf.png" group-title="Sweden",V Sport Golf SE (Backup)
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/14892
-#EXTINF:-1 tvg-id="svt1hd.svt.se" tvg-name="SVT1 HD SE (Backup)" tvg-logo="https://logo.iptveditor.com/svt1.png" group-title="Sweden",SVT1 HD SE (Backup)
-http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/14869
 
+
+#EXTINF:-1 tvg-id="" tvg-name="##### SWEDEN #####" tvg-logo="https://cdn.countryflags.com/thumbs/sweden/flag-waving-250.png" group-title="EU| SWEDEN",##### SWEDEN #####
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242862
+#EXTINF:-1 tvg-id="" tvg-name="|SW|SVT Kunskapskanalen HD SE" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/SVTKunskapskanalen.png" group-title="EU| SWEDEN",|SW|SVT Kunskapskanalen HD SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242863
+#EXTINF:-1 tvg-id="" tvg-name="|SW|SVT Kunskapskanalen SE" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/SVTKunskapskanalen.png" group-title="EU| SWEDEN",|SW|SVT Kunskapskanalen SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242864
+#EXTINF:-1 tvg-id="svt1.se" tvg-name="|SW|SVT1 HD (B" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/SVT1.png" group-title="EU| SWEDEN",|SW|SVT1 HD (B
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242868
+#EXTINF:-1 tvg-id="svt1.se" tvg-name="|SW|SVT1 HD (B) SE" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/SVT1.png" group-title="EU| SWEDEN",|SW|SVT1 HD (B) SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242865
+#EXTINF:-1 tvg-id="svt1.se" tvg-name="|SW|SVT1 HD SE" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/SVT1.png" group-title="EU| SWEDEN",|SW|SVT1 HD SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242866
+#EXTINF:-1 tvg-id="svt1.se" tvg-name="|SW|SVT1 SkAne SE" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/SVT1.png" group-title="EU| SWEDEN",|SW|SVT1 SkAne SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242869
+#EXTINF:-1 tvg-id="svt1.se" tvg-name="|SW|SVT1 Syd SE" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/SVT1.png" group-title="EU| SWEDEN",|SW|SVT1 Syd SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242867
+#EXTINF:-1 tvg-id="svt2.se" tvg-name="|SW|SVT2 HD (B)" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/SVT2HD.png" group-title="EU| SWEDEN",|SW|SVT2 HD (B)
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242873
+#EXTINF:-1 tvg-id="svt2.se" tvg-name="|SW|SVT2 HD (B) SE" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/SVT2HD.png" group-title="EU| SWEDEN",|SW|SVT2 HD (B) SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242870
+#EXTINF:-1 tvg-id="svt2.se" tvg-name="|SW|SVT2 HD SE" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/SVT2HD.png" group-title="EU| SWEDEN",|SW|SVT2 HD SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242871
+#EXTINF:-1 tvg-id="svt2.se" tvg-name="|SW|SVT2 SkAne SE" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/SVT2HD.png" group-title="EU| SWEDEN",|SW|SVT2 SkAne SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242872
+#EXTINF:-1 tvg-id="svt24.se" tvg-name="|SW|SVT24/B HD (B) SE" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/SVTBSVT24HD.png" group-title="EU| SWEDEN",|SW|SVT24/B HD (B) SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242874
+#EXTINF:-1 tvg-id="svt24.se" tvg-name="|SW|SVT24/B HD SE" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/SVTBSVT24HD.png" group-title="EU| SWEDEN",|SW|SVT24/B HD SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242875
+#EXTINF:-1 tvg-id="tv10.se" tvg-name="|SW|TV10 FHD SE" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/TV10.png" group-title="EU| SWEDEN",|SW|TV10 FHD SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242876
+#EXTINF:-1 tvg-id="tv10.se" tvg-name="|SW|TV10 HD SE" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/TV10.png" group-title="EU| SWEDEN",|SW|TV10 HD SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242877
+#EXTINF:-1 tvg-id="tv10.se" tvg-name="|SW|TV10 SE" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/TV10.png" group-title="EU| SWEDEN",|SW|TV10 SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242878
+#EXTINF:-1 tvg-id="tv12.se" tvg-name="|SW|TV12 FHD SE" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/TV12HD.png" group-title="EU| SWEDEN",|SW|TV12 FHD SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242879
+#EXTINF:-1 tvg-id="tv12.se" tvg-name="|SW|TV12 HD SE" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/TV12HD.png" group-title="EU| SWEDEN",|SW|TV12 HD SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242880
+#EXTINF:-1 tvg-id="tv12.se" tvg-name="|SW|TV12 SE" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/TV12HD.png" group-title="EU| SWEDEN",|SW|TV12 SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242881
+#EXTINF:-1 tvg-id="tv3.se" tvg-name="|SW|TV3 FHD SE" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/TV3.png" group-title="EU| SWEDEN",|SW|TV3 FHD SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242882
+#EXTINF:-1 tvg-id="tv3.se" tvg-name="|SW|TV3 HD SE" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/TV3.png" group-title="EU| SWEDEN",|SW|TV3 HD SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242883
+#EXTINF:-1 tvg-id="tv3.se" tvg-name="|SW|TV3 SE" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/TV3.png" group-title="EU| SWEDEN",|SW|TV3 SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242884
+#EXTINF:-1 tvg-id="tv4.se" tvg-name="|SW|TV4 FHD SE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/TV4_logo.png" group-title="EU| SWEDEN",|SW|TV4 FHD SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242885
+#EXTINF:-1 tvg-id="tv4.se" tvg-name="|SW|TV4 HD SE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/TV4_logo.png" group-title="EU| SWEDEN",|SW|TV4 HD SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242886
+#EXTINF:-1 tvg-id="tv6.se" tvg-name="|SW|TV6 FHD SE" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/TV6HD.png" group-title="EU| SWEDEN",|SW|TV6 FHD SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242887
+#EXTINF:-1 tvg-id="tv6.se" tvg-name="|SW|TV6 HD SE" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/TV6HD.png" group-title="EU| SWEDEN",|SW|TV6 HD SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242888
+#EXTINF:-1 tvg-id="tv6.se" tvg-name="|SW|TV6 SE" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/TV6HD.png" group-title="EU| SWEDEN",|SW|TV6 SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242889
+#EXTINF:-1 tvg-id="tv8.se" tvg-name="|SW|TV8 FHD SE" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/TV8.png" group-title="EU| SWEDEN",|SW|TV8 FHD SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242890
+#EXTINF:-1 tvg-id="tv8.se" tvg-name="|SW|TV8 HD SE" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/TV8.png" group-title="EU| SWEDEN",|SW|TV8 HD SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242891
+#EXTINF:-1 tvg-id="sjuan.se" tvg-name="|SW|Sjuan HD SE" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/SJUANHD.png" group-title="EU| SWEDEN",|SW|Sjuan HD SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242919
+#EXTINF:-1 tvg-id="sjuan.se" tvg-name="|SW|Sjuan FHD SE" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/SJUANHD.png" group-title="EU| SWEDEN",|SW|Sjuan FHD SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242918
+#EXTINF:-1 tvg-id="" tvg-name="|SW|Motorvision TV SE" tvg-logo="http://185.165.243.195/logo_plus/1%20MISSING%20LOGO/FRANCE%20TNT/MotorVision.de.png" group-title="EU| SWEDEN",|SW|Motorvision TV SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242917
+#EXTINF:-1 tvg-id="" tvg-name="|SW|Motorvision TV FHD SE" tvg-logo="http://185.165.243.195/logo_plus/1%20MISSING%20LOGO/FRANCE%20TNT/MotorVision.de.png" group-title="EU| SWEDEN",|SW|Motorvision TV FHD SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242916
+#EXTINF:-1 tvg-id="" tvg-name="|SW|Mezzo Live HD SE" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/MEZZOLIVEHD.png" group-title="EU| SWEDEN",|SW|Mezzo Live HD SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242915
+#EXTINF:-1 tvg-id="kanal9.se" tvg-name="|SW|Kanal 9 SE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Kanal_9_Sweden_logo_2014.png" group-title="EU| SWEDEN",|SW|Kanal 9 SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242914
+#EXTINF:-1 tvg-id="kanal9.se" tvg-name="|SW|Kanal 9 HD SE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Kanal_9_Sweden_logo_2014.png" group-title="EU| SWEDEN",|SW|Kanal 9 HD SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242913
+#EXTINF:-1 tvg-id="kanal9.se" tvg-name="|SW|Kanal 9 FHD SE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Kanal_9_Sweden_logo_2014.png" group-title="EU| SWEDEN",|SW|Kanal 9 FHD SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242912
+#EXTINF:-1 tvg-id="kanal5.se" tvg-name="|SW|Kanal 5 SE" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/KANAL5.png" group-title="EU| SWEDEN",|SW|Kanal 5 SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242911
+#EXTINF:-1 tvg-id="kanal5.se" tvg-name="|SW|Kanal 5 HD SE" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/KANAL5.png" group-title="EU| SWEDEN",|SW|Kanal 5 HD SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242910
+#EXTINF:-1 tvg-id="kanal5.se" tvg-name="|SW|Kanal 5 FHD SE" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/KANAL5.png" group-title="EU| SWEDEN",|SW|Kanal 5 FHD SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242909
+#EXTINF:-1 tvg-id="kanal11.se" tvg-name="|SW|Kanal 11 SE" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/KANAL11HD.png" group-title="EU| SWEDEN",|SW|Kanal 11 SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242908
+#EXTINF:-1 tvg-id="kanal11.se" tvg-name="|SW|Kanal 11 HD SE" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/KANAL11HD.png" group-title="EU| SWEDEN",|SW|Kanal 11 HD SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242907
+#EXTINF:-1 tvg-id="kanal11.se" tvg-name="|SW|Kanal 11 FHD SE" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/KANAL11HD.png" group-title="EU| SWEDEN",|SW|Kanal 11 FHD SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242906
+#EXTINF:-1 tvg-id="kanal10.se" tvg-name="|SW|Kanal 10 SE" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/1c/62/a6/1c62a6d3-f660-e7dc-24b1-3c986a8fbc1d/source/512x512bb.jpg" group-title="EU| SWEDEN",|SW|Kanal 10 SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242905
+#EXTINF:-1 tvg-id="" tvg-name="|SW|Aftonbladet TV HD SE [Live During Events Only]" tvg-logo="https://mb.cision.com/Public/428/2430465/8018919a8598400d_org.png" group-title="EU| SWEDEN",|SW|Aftonbladet TV HD SE [Live During Events Only]
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242904
+#EXTINF:-1 tvg-id="" tvg-name="|SW|GINX eSports TV SE" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/GINXESPORTSTV.png" group-title="EU| SWEDEN",|SW|GINX eSports TV SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242903
+#EXTINF:-1 tvg-id="" tvg-name="|SW|GINX eSports TV FHD SE" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/GINXESPORTSTV.png" group-title="EU| SWEDEN",|SW|GINX eSports TV FHD SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242902
+#EXTINF:-1 tvg-id="" tvg-name="|SW|FUEL TV FHD SE" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/FUELTV.png" group-title="EU| SWEDEN",|SW|FUEL TV FHD SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242901
+#EXTINF:-1 tvg-id="" tvg-name="|SW|Dagens Industri TV HD SE" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/DagensIndustriTV.png" group-title="EU| SWEDEN",|SW|Dagens Industri TV HD SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242900
+#EXTINF:-1 tvg-id="" tvg-name="|SW|CNN International SE" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/CNN.png" group-title="EU| SWEDEN",|SW|CNN International SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242899
+#EXTINF:-1 tvg-id="" tvg-name="|SW| GodareTV" tvg-logo="https://wwwe.aftonbladet.se/ab-se/hyperion/gfx/ab-icon-godare.png?ver=3" group-title="EU| SWEDEN",|SW| GodareTV
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242898
+#EXTINF:-1 tvg-id="" tvg-name="|SW|Bloomberg TV HD SE" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/BLOOMBERG.png" group-title="EU| SWEDEN",|SW|Bloomberg TV HD SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242897
+#EXTINF:-1 tvg-id="" tvg-name="|SW|BBC World News SE" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/BBCWORLDHD.png" group-title="EU| SWEDEN",|SW|BBC World News SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242896
+#EXTINF:-1 tvg-id="" tvg-name="|SW|ATG Swedish Horse Racing SE" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/ATGLIVE.png" group-title="EU| SWEDEN",|SW|ATG Swedish Horse Racing SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242895
+#EXTINF:-1 tvg-id="atglive.se" tvg-name="|SW|ATG Live SE" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/ATGLIVE.png" group-title="EU| SWEDEN",|SW|ATG Live SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242894
+#EXTINF:-1 tvg-id="atglive.se" tvg-name="|SW|ATG Live HD SE" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/ATGLIVE.png" group-title="EU| SWEDEN",|SW|ATG Live HD SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242893
+#EXTINF:-1 tvg-id="" tvg-name="|SW|Al Jazeera FHD SE" tvg-logo="http://185.165.243.195/logo_plus/NEWS-26FACTUAL/ALJAZEERA.png" group-title="EU| SWEDEN",|SW|Al Jazeera FHD SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242892
+#EXTINF:-1 tvg-id="" tvg-name="##### KIDS #####" tvg-logo="https://cdn.countryflags.com/thumbs/sweden/flag-waving-250.png" group-title="EU| SWEDEN",##### KIDS #####
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242920
+#EXTINF:-1 tvg-id="boomerang.se" tvg-name="|SW|Boomerang SE" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/BOOMERANG.png" group-title="EU| SWEDEN",|SW|Boomerang SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242921
+#EXTINF:-1 tvg-id="boomerang.se" tvg-name="|SW|Boomerang SE [Multi-Audio]" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/BOOMERANG.png" group-title="EU| SWEDEN",|SW|Boomerang SE [Multi-Audio]
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242922
+#EXTINF:-1 tvg-id="cartoonnetwork.se" tvg-name="|SW|Cartoon Network SE" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/CARTOONNETWORK.png" group-title="EU| SWEDEN",|SW|Cartoon Network SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242923
+#EXTINF:-1 tvg-id="cartoonnetwork.se" tvg-name="|SW|Cartoon Network SE [Multi-Audio]" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/CARTOONNETWORK.png" group-title="EU| SWEDEN",|SW|Cartoon Network SE [Multi-Audio]
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242924
+#EXTINF:-1 tvg-id="disneychannel.se" tvg-name="|SW|Discovery Channel FHD SE" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/DISCOVERYCHANNELHD.png" group-title="EU| SWEDEN",|SW|Discovery Channel FHD SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242926
+#EXTINF:-1 tvg-id="disneychannel.se" tvg-name="|SW|Discovery Channel HD SE" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/DISCOVERYCHANNELHD.png" group-title="EU| SWEDEN",|SW|Discovery Channel HD SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242927
+#EXTINF:-1 tvg-id="disneychannel.se" tvg-name="|SW|Discovery Channel SE" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/DISCOVERYCHANNELHD.png" group-title="EU| SWEDEN",|SW|Discovery Channel SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242928
+#EXTINF:-1 tvg-id="disneychannel.se" tvg-name="|SW|Disney Channel SE" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/DISNEYCHANNEL.png" group-title="EU| SWEDEN",|SW|Disney Channel SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242925
+#EXTINF:-1 tvg-id="disneychannel.se" tvg-name="|SW|Disney Channel SE [Multi-Audio]" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/DISNEYCHANNEL.png" group-title="EU| SWEDEN",|SW|Disney Channel SE [Multi-Audio]
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242929
+#EXTINF:-1 tvg-id="disneyjunior.se" tvg-name="|SW|Disney Junior SE" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/DISNEYJUNIOR.png" group-title="EU| SWEDEN",|SW|Disney Junior SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242930
+#EXTINF:-1 tvg-id="disneyjunior.se" tvg-name="|SW|Disney Junior SE [Multi-Audio]" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/DISNEYJUNIOR.png" group-title="EU| SWEDEN",|SW|Disney Junior SE [Multi-Audio]
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242931
+#EXTINF:-1 tvg-id="nickjr.se" tvg-name="|SW|Nick Jr  FHD SE" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/NICKJR.HD.png" group-title="EU| SWEDEN",|SW|Nick Jr  FHD SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242932
+#EXTINF:-1 tvg-id="nickjr.se" tvg-name="|SW|Nick Jr SE [Multi-Audio]" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/NICKJR.HD.png" group-title="EU| SWEDEN",|SW|Nick Jr SE [Multi-Audio]
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242933
+#EXTINF:-1 tvg-id="nickelodeon.se" tvg-name="|SW|Nickelodeon FHD SE" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/NICKELODEONHD.png" group-title="EU| SWEDEN",|SW|Nickelodeon FHD SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242934
+#EXTINF:-1 tvg-id="nickelodeon.se" tvg-name="|SW|Nickelodeon SE" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/NICKELODEONHD.png" group-title="EU| SWEDEN",|SW|Nickelodeon SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242935
+#EXTINF:-1 tvg-id="nicktoons.se" tvg-name="|SW|NickToons SE [Multi-Audio]" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/NICKTOONS.png" group-title="EU| SWEDEN",|SW|NickToons SE [Multi-Audio]
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242936
+#EXTINF:-1 tvg-id="" tvg-name="##### DOCUMENTARY #####" tvg-logo="https://cdn.countryflags.com/thumbs/sweden/flag-waving-250.png" group-title="EU| SWEDEN",##### DOCUMENTARY #####
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242937
+#EXTINF:-1 tvg-id="history.se" tvg-name="|SW| History HD" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/HISTORYHD.png" group-title="EU| SWEDEN",|SW| History HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242942
+#EXTINF:-1 tvg-id="natgeo.se" tvg-name="|SW| National Geographic HD" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/NATIONALGEOGRAPHICHD.png" group-title="EU| SWEDEN",|SW| National Geographic HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242957
+#EXTINF:-1 tvg-id="natgeo.se" tvg-name="|SW| National Geographic Wild HD" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/NATGEOWILDHD.png" group-title="EU| SWEDEN",|SW| National Geographic Wild HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242958
+#EXTINF:-1 tvg-id="viasatexplorer.se" tvg-name="|SW| Viasat Explorer HD" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/VIASATEXPLORE.png" group-title="EU| SWEDEN",|SW| Viasat Explorer HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242959
+#EXTINF:-1 tvg-id="viasathistory.se" tvg-name="|SW| Viasat History HD" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/VIASATHISTORY.png" group-title="EU| SWEDEN",|SW| Viasat History HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242960
+#EXTINF:-1 tvg-id="viasatnature.se" tvg-name="|SW| Viasat Nature HD" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/VIASATNATURE.png" group-title="EU| SWEDEN",|SW| Viasat Nature HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242961
+#EXTINF:-1 tvg-id="animalplanet.se" tvg-name="|SW|Animal Planet FHD SE [Multi-Sub]" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/ANIMAPLANET.png" group-title="EU| SWEDEN",|SW|Animal Planet FHD SE [Multi-Sub]
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242938
+#EXTINF:-1 tvg-id="animalplanet.se" tvg-name="|SW|Animal Planet SE" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/ANIMAPLANET.png" group-title="EU| SWEDEN",|SW|Animal Planet SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242939
+#EXTINF:-1 tvg-id="bbcearth.se" tvg-name="|SW|BBC Earth FHD SE [Multi-Sub]" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="EU| SWEDEN",|SW|BBC Earth FHD SE [Multi-Sub]
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242940
+#EXTINF:-1 tvg-id="bbcearth.se" tvg-name="|SW|BBC Earth SE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="EU| SWEDEN",|SW|BBC Earth SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242941
+#EXTINF:-1 tvg-id="discoveryscience.se" tvg-name="|SW|Discovery Science SE" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/DISCOVERYSCIENCE.png" group-title="EU| SWEDEN",|SW|Discovery Science SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242947
+#EXTINF:-1 tvg-id="discoveryscience.se" tvg-name="|SW|Discovery Science SE [Multi-Sub]" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/DISCOVERYSCIENCE.png" group-title="EU| SWEDEN",|SW|Discovery Science SE [Multi-Sub]
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242948
+#EXTINF:-1 tvg-id="discoveryworld.se" tvg-name="|SW|Discovery World SE" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/DISCOVERYWORLD.png" group-title="EU| SWEDEN",|SW|Discovery World SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242949
+#EXTINF:-1 tvg-id="h2.se" tvg-name="|SW|H2 SE" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/HISTORYHD.png" group-title="EU| SWEDEN",|SW|H2 SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242943
+#EXTINF:-1 tvg-id="history.se" tvg-name="|SW|History EU FHD SE [Multi-Sub]" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/HISTORYHD.png" group-title="EU| SWEDEN",|SW|History EU FHD SE [Multi-Sub]
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242944
+#EXTINF:-1 tvg-id="history.se" tvg-name="|SW|History SE" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/HISTORYHD.png" group-title="EU| SWEDEN",|SW|History SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242945
+#EXTINF:-1 tvg-id="horseandcountry.se" tvg-name="|SW|Horse Country TV SE" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/HORSE&COUNTRYTV.png" group-title="EU| SWEDEN",|SW|Horse Country TV SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242946
+#EXTINF:-1 tvg-id="investigationdiscovery.se" tvg-name="|SW|Investigation Discovery SE" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/INVESTIGATIONDISCOVERY.png" group-title="EU| SWEDEN",|SW|Investigation Discovery SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242950
+#EXTINF:-1 tvg-id="investigationdiscovery.se" tvg-name="|SW|Investigation Discovery SE [Multi-Sub]" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/INVESTIGATIONDISCOVERY.png" group-title="EU| SWEDEN",|SW|Investigation Discovery SE [Multi-Sub]
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242951
+#EXTINF:-1 tvg-id="natgeo.se" tvg-name="|SW|National Geographic FHD SE [Multi-Sub]" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/NATIONALGEOGRAPHICHD.png" group-title="EU| SWEDEN",|SW|National Geographic FHD SE [Multi-Sub]
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242952
+#EXTINF:-1 tvg-id="natgeo.se" tvg-name="|SW|National Geographic SE" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/NATIONALGEOGRAPHICHD.png" group-title="EU| SWEDEN",|SW|National Geographic SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242953
+#EXTINF:-1 tvg-id="natgeowild.se" tvg-name="|SW|National Geographic Wild FHD SE [Multi-Sub]" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/NATGEOWILDHD.png" group-title="EU| SWEDEN",|SW|National Geographic Wild FHD SE [Multi-Sub]
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242954
+#EXTINF:-1 tvg-id="natgeowild.se" tvg-name="|SW|National Geographic Wild SE" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/NATGEOWILDHD.png" group-title="EU| SWEDEN",|SW|National Geographic Wild SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242955
+#EXTINF:-1 tvg-id="" tvg-name="|SW|Nautical Channel FHD SE" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/be/Nautical_Channel.png" group-title="EU| SWEDEN",|SW|Nautical Channel FHD SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242956
+#EXTINF:-1 tvg-id="viasatexplorer.se" tvg-name="|SW|Viasat Explorer FHD SE [Multi-Sub]" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/VIASATEXPLORE.png" group-title="EU| SWEDEN",|SW|Viasat Explorer FHD SE [Multi-Sub]
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242962
+#EXTINF:-1 tvg-id="viasatexplorer.se" tvg-name="|SW|Viasat Explorer SE" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/VIASATEXPLORE.png" group-title="EU| SWEDEN",|SW|Viasat Explorer SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242963
+#EXTINF:-1 tvg-id="viasathistory.se" tvg-name="|SW|Viasat History FHD SE [Multi-Sub]" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/VIASATHISTORY.png" group-title="EU| SWEDEN",|SW|Viasat History FHD SE [Multi-Sub]
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242964
+#EXTINF:-1 tvg-id="viasathistory.se" tvg-name="|SW|Viasat History SE" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/VIASATHISTORY.png" group-title="EU| SWEDEN",|SW|Viasat History SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242965
+#EXTINF:-1 tvg-id="viasatnature.se" tvg-name="|SW|Viasat Nature FHD SE [Multi-Sub]" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/VIASATNATURE.png" group-title="EU| SWEDEN",|SW|Viasat Nature FHD SE [Multi-Sub]
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242966
+#EXTINF:-1 tvg-id="viasatnature.se" tvg-name="|SW|Viasat Nature SE" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/VIASATNATURE.png" group-title="EU| SWEDEN",|SW|Viasat Nature SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242967
+#EXTINF:-1 tvg-id="" tvg-name="##### SPORTS #####" tvg-logo="https://cdn.countryflags.com/thumbs/sweden/flag-waving-250.png" group-title="EU| SWEDEN",##### SPORTS #####
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242968
+#EXTINF:-1 tvg-id="" tvg-name="|SW| DISCOVERY + 1 FHD" tvg-logo="" group-title="EU| SWEDEN",|SW| DISCOVERY + 1 FHD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/280391
+#EXTINF:-1 tvg-id="" tvg-name="|SW| DISCOVERY + 2 FHD" tvg-logo="" group-title="EU| SWEDEN",|SW| DISCOVERY + 2 FHD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/280392
+#EXTINF:-1 tvg-id="" tvg-name="|SW| DISCOVERY  + 3 FHD" tvg-logo="" group-title="EU| SWEDEN",|SW| DISCOVERY  + 3 FHD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/280393
+#EXTINF:-1 tvg-id="" tvg-name="|SW| DISCOVERY + 4 FHD" tvg-logo="" group-title="EU| SWEDEN",|SW| DISCOVERY + 4 FHD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/280394
+#EXTINF:-1 tvg-id="" tvg-name="|SW| DISCOVERY + 5 FHD" tvg-logo="" group-title="EU| SWEDEN",|SW| DISCOVERY + 5 FHD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/280395
+#EXTINF:-1 tvg-id="" tvg-name="|SW| DISCOVERY + 6 FHD" tvg-logo="" group-title="EU| SWEDEN",|SW| DISCOVERY + 6 FHD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/280396
+#EXTINF:-1 tvg-id="" tvg-name="|SW| DISCOVERY + 7 FHD" tvg-logo="" group-title="EU| SWEDEN",|SW| DISCOVERY + 7 FHD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/280397
+#EXTINF:-1 tvg-id="" tvg-name="|SW| DISCOVERY + 8 FHD" tvg-logo="" group-title="EU| SWEDEN",|SW| DISCOVERY + 8 FHD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/280398
+#EXTINF:-1 tvg-id="" tvg-name="|SW|  ViaPlay Extra 1 HD" tvg-logo="" group-title="EU| SWEDEN",|SW|  ViaPlay Extra 1 HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/280399
+#EXTINF:-1 tvg-id="" tvg-name="|SW|  ViaPlay Extra 2 HD" tvg-logo="" group-title="EU| SWEDEN",|SW|  ViaPlay Extra 2 HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/280400
+#EXTINF:-1 tvg-id="" tvg-name="|SW|  ViaPlay Extra 3 HD" tvg-logo="" group-title="EU| SWEDEN",|SW|  ViaPlay Extra 3 HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/280401
+#EXTINF:-1 tvg-id="" tvg-name="|SW|  ViaPlay Extra 4 HD" tvg-logo="" group-title="EU| SWEDEN",|SW|  ViaPlay Extra 4 HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/280402
+#EXTINF:-1 tvg-id="" tvg-name="|SW|  ViaPlay Extra 5 HD" tvg-logo="" group-title="EU| SWEDEN",|SW|  ViaPlay Extra 5 HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/280403
+#EXTINF:-1 tvg-id="" tvg-name="|SW|  ViaPlay Extra 6 HD" tvg-logo="" group-title="EU| SWEDEN",|SW|  ViaPlay Extra 6 HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/280404
+#EXTINF:-1 tvg-id="" tvg-name="|SW|  ViaPlay Extra 7 HD" tvg-logo="" group-title="EU| SWEDEN",|SW|  ViaPlay Extra 7 HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/280405
+#EXTINF:-1 tvg-id="" tvg-name="|SW|  ViaPlay Extra 8 HD" tvg-logo="" group-title="EU| SWEDEN",|SW|  ViaPlay Extra 8 HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/280406
+#EXTINF:-1 tvg-id="" tvg-name="|SW|  ViaPlay Extra 9 HD" tvg-logo="" group-title="EU| SWEDEN",|SW|  ViaPlay Extra 9 HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/280407
+#EXTINF:-1 tvg-id="" tvg-name="|SW|  ViaPlay Extra 10 HD" tvg-logo="" group-title="EU| SWEDEN",|SW|  ViaPlay Extra 10 HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/280408
+#EXTINF:-1 tvg-id="" tvg-name="|SW|  ViaPlay Extra 11 HD" tvg-logo="" group-title="EU| SWEDEN",|SW|  ViaPlay Extra 11 HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/280409
+#EXTINF:-1 tvg-id="" tvg-name="|SW|  ViaPlay Extra 12 HD" tvg-logo="" group-title="EU| SWEDEN",|SW|  ViaPlay Extra 12 HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/280410
+#EXTINF:-1 tvg-id="" tvg-name="|SW|  ViaPlay Extra 13 HD" tvg-logo="" group-title="EU| SWEDEN",|SW|  ViaPlay Extra 13 HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/280411
+#EXTINF:-1 tvg-id="" tvg-name="|SW|  ViaPlay Extra 14 HD" tvg-logo="" group-title="EU| SWEDEN",|SW|  ViaPlay Extra 14 HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/280412
+#EXTINF:-1 tvg-id="" tvg-name="|SW|  ViaPlay Extra 15 HD" tvg-logo="" group-title="EU| SWEDEN",|SW|  ViaPlay Extra 15 HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/280413
+#EXTINF:-1 tvg-id="cmorefotboll.se" tvg-name="|SW|C More Fotboll FHD SE" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/CMOREFOTBOLL.png" group-title="EU| SWEDEN",|SW|C More Fotboll FHD SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242969
+#EXTINF:-1 tvg-id="cmorefotboll.se" tvg-name="|SW|C More Fotboll HD SE" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/CMOREFOTBOLL.png" group-title="EU| SWEDEN",|SW|C More Fotboll HD SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242970
+#EXTINF:-1 tvg-id="cmorefotboll.se" tvg-name="|SW|C More Fotboll SE" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/CMOREFOTBOLL.png" group-title="EU| SWEDEN",|SW|C More Fotboll SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242971
+#EXTINF:-1 tvg-id="cmoregolf.se" tvg-name="|SW|C More Golf FHD SE" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/CMOREGOLF.png" group-title="EU| SWEDEN",|SW|C More Golf FHD SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242972
+#EXTINF:-1 tvg-id="cmoregolf.se" tvg-name="|SW|C More Golf SE" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/CMOREGOLF.png" group-title="EU| SWEDEN",|SW|C More Golf SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242973
+#EXTINF:-1 tvg-id="cmorehockey.se" tvg-name="|SW|C More Hockey FHD SE" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/CMOREHOCKEY.png" group-title="EU| SWEDEN",|SW|C More Hockey FHD SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242974
+#EXTINF:-1 tvg-id="cmorehockey.se" tvg-name="|SW|C More Hockey SE" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/CMOREHOCKEY.png" group-title="EU| SWEDEN",|SW|C More Hockey SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242975
+#EXTINF:-1 tvg-id="cmorelive2.se" tvg-name="|SW|C More Live 2 FHD SE" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/CMORELIVE2HD.png" group-title="EU| SWEDEN",|SW|C More Live 2 FHD SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242976
+#EXTINF:-1 tvg-id="cmorelive2.se" tvg-name="|SW|C More Live 2 SE" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/CMORELIVE2HD.png" group-title="EU| SWEDEN",|SW|C More Live 2 SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242977
+#EXTINF:-1 tvg-id="cmorelive3.se" tvg-name="|SW|C More Live 3 FHD SE" tvg-logo="https://4.bp.blogspot.com/-hCaOuPljkSU/W7jiiLpLlrI/AAAAAAAAI5M/PtrpMZ-h_sU7RfT8EvudYFvlEkeEgRf2gCLcBGAs/s1600/CMore_Live_HD.png" group-title="EU| SWEDEN",|SW|C More Live 3 FHD SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242978
+#EXTINF:-1 tvg-id="cmorelive3.se" tvg-name="|SW|C More Live 3 SE" tvg-logo="https://4.bp.blogspot.com/-hCaOuPljkSU/W7jiiLpLlrI/AAAAAAAAI5M/PtrpMZ-h_sU7RfT8EvudYFvlEkeEgRf2gCLcBGAs/s1600/CMore_Live_HD.png" group-title="EU| SWEDEN",|SW|C More Live 3 SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242979
+#EXTINF:-1 tvg-id="cmorelive4.se" tvg-name="|SW|C More Live 4 FHD SE" tvg-logo="https://4.bp.blogspot.com/-hCaOuPljkSU/W7jiiLpLlrI/AAAAAAAAI5M/PtrpMZ-h_sU7RfT8EvudYFvlEkeEgRf2gCLcBGAs/s1600/CMore_Live_HD.png" group-title="EU| SWEDEN",|SW|C More Live 4 FHD SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242980
+#EXTINF:-1 tvg-id="cmorelive4.se" tvg-name="|SW|C More Live 4 SE" tvg-logo="https://4.bp.blogspot.com/-hCaOuPljkSU/W7jiiLpLlrI/AAAAAAAAI5M/PtrpMZ-h_sU7RfT8EvudYFvlEkeEgRf2gCLcBGAs/s1600/CMore_Live_HD.png" group-title="EU| SWEDEN",|SW|C More Live 4 SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242981
+#EXTINF:-1 tvg-id="cmorelive5.se" tvg-name="|SW|C More Live 5 FHD SE" tvg-logo="https://4.bp.blogspot.com/-hCaOuPljkSU/W7jiiLpLlrI/AAAAAAAAI5M/PtrpMZ-h_sU7RfT8EvudYFvlEkeEgRf2gCLcBGAs/s1600/CMore_Live_HD.png" group-title="EU| SWEDEN",|SW|C More Live 5 FHD SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242982
+#EXTINF:-1 tvg-id="cmorelive5.se" tvg-name="|SW|C More Live 5 SE" tvg-logo="https://4.bp.blogspot.com/-hCaOuPljkSU/W7jiiLpLlrI/AAAAAAAAI5M/PtrpMZ-h_sU7RfT8EvudYFvlEkeEgRf2gCLcBGAs/s1600/CMore_Live_HD.png" group-title="EU| SWEDEN",|SW|C More Live 5 SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242983
+#EXTINF:-1 tvg-id="cmorelive.se" tvg-name="|SW|C More Live FHD SE" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/CMORELIVE2HD.png" group-title="EU| SWEDEN",|SW|C More Live FHD SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242984
+#EXTINF:-1 tvg-id="cmorelive.se" tvg-name="|SW|C More Live SE" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/CMORELIVE2HD.png" group-title="EU| SWEDEN",|SW|C More Live SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242985
+#EXTINF:-1 tvg-id="tv3sport.se" tvg-name="|SW|TV3 Sport SE" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/TV3SPORT1.png" group-title="EU| SWEDEN",|SW|TV3 Sport SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/243016
+#EXTINF:-1 tvg-id="tv3sport.se" tvg-name="|SW|TV3 Sport FHD SE" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/TV3SPORT1.png" group-title="EU| SWEDEN",|SW|TV3 Sport FHD SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/243015
+#EXTINF:-1 tvg-id="" tvg-name="|SW|Fight Network FHD SE" tvg-logo="http://185.165.243.195/logo_plus/USA/FIGHTNETWORK.png" group-title="EU| SWEDEN",|SW|Fight Network FHD SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/243014
+#EXTINF:-1 tvg-id="viasatsport.se" tvg-name="|SW|Viasat Sport Ultra FHD SE [Multi-Audio]" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/VIASATSPORTHD.png" group-title="EU| SWEDEN",|SW|Viasat Sport Ultra FHD SE [Multi-Audio]
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/243013
+#EXTINF:-1 tvg-id="viasatsport.se" tvg-name="|SW|Viasat Sport Ultra 4K SE [Only On 4K Devices]" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/VIASATSPORTHD.png" group-title="EU| SWEDEN",|SW|Viasat Sport Ultra 4K SE [Only On 4K Devices]
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/243012
+#EXTINF:-1 tvg-id="viasatsport.se" tvg-name="|SW|Viasat Sport SE" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/VIASATSPORTHD.png" group-title="EU| SWEDEN",|SW|Viasat Sport SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/243011
+#EXTINF:-1 tvg-id="" tvg-name="|SW| V Sport Premium HD" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/VIASATSPORTPREMIUMHD.png" group-title="EU| SWEDEN",|SW| V Sport Premium HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/243089
+#EXTINF:-1 tvg-id="viasatsportpremium.se" tvg-name="|SW|Viasat Sport Premium SE" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/VIASATSPORTPREMIUMHD.png" group-title="EU| SWEDEN",|SW|Viasat Sport Premium SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/243010
+#EXTINF:-1 tvg-id="viasatsportpremium.se" tvg-name="|SW|Viasat Sport Premium HD SE" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/VIASATSPORTPREMIUMHD.png" group-title="EU| SWEDEN",|SW|Viasat Sport Premium HD SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/243009
+#EXTINF:-1 tvg-id="viasatsportpremium.se" tvg-name="|SW|Viasat Sport Premium FHD SE [Multi-Audio]" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/VIASATSPORTPREMIUMHD.png" group-title="EU| SWEDEN",|SW|Viasat Sport Premium FHD SE [Multi-Audio]
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/243008
+#EXTINF:-1 tvg-id="viasatsportpremium.se" tvg-name="|SW|Viasat Sport Premium FHD SE" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/VIASATSPORTPREMIUMHD.png" group-title="EU| SWEDEN",|SW|Viasat Sport Premium FHD SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/243007
+#EXTINF:-1 tvg-id="viasatsport.se" tvg-name="|SW|Viasat Sport FHD SE" tvg-logo="" group-title="EU| SWEDEN",|SW|Viasat Sport FHD SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/243086
+#EXTINF:-1 tvg-id="viasatsport.se" tvg-name="|SW|Viasat Sport FHD SE" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/VIASATSPORTHD.png" group-title="EU| SWEDEN",|SW|Viasat Sport FHD SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/243006
+#EXTINF:-1 tvg-id="" tvg-name="|SW| V Sport 1 HD" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/VIASATSPORTHD.png" group-title="EU| SWEDEN",|SW| V Sport 1 HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/243090
+#EXTINF:-1 tvg-id="viasatmotor.se" tvg-name="|SW|Viasat Motor SE" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/VIASATMOTORHD.png" group-title="EU| SWEDEN",|SW|Viasat Motor SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/243005
+#EXTINF:-1 tvg-id="" tvg-name="|SW| V Sport Motor HD" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/VIASATMOTORHD.png" group-title="EU| SWEDEN",|SW| V Sport Motor HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/243087
+#EXTINF:-1 tvg-id="viasatmotor.se" tvg-name="|SW|Viasat Motor HD SE" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/VIASATMOTORHD.png" group-title="EU| SWEDEN",|SW|Viasat Motor HD SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/243004
+#EXTINF:-1 tvg-id="viasatmotor.se" tvg-name="|SW|Viasat Motor FHD SE [Multi-Audio]" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/VIASATMOTORHD.png" group-title="EU| SWEDEN",|SW|Viasat Motor FHD SE [Multi-Audio]
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/243003
+#EXTINF:-1 tvg-id="viasathockey.se" tvg-name="|SW|Viasat Hockey SE" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/VIASATHOCKEYHD.png" group-title="EU| SWEDEN",|SW|Viasat Hockey SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/243002
+#EXTINF:-1 tvg-id="viasathockey.se" tvg-name="|SW|Viasat Hockey FHD SE" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/VIASATHOCKEYHD.png" group-title="EU| SWEDEN",|SW|Viasat Hockey FHD SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/243001
+#EXTINF:-1 tvg-id="viasatgolf.se" tvg-name="|SW|Viasat Golf SE" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/VIASATGOLF.png" group-title="EU| SWEDEN",|SW|Viasat Golf SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/243000
+#EXTINF:-1 tvg-id="viasatgolf.se" tvg-name="|SW|Viasat Golf FHD SE [Multi-Audio]" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/VIASATGOLF.png" group-title="EU| SWEDEN",|SW|Viasat Golf FHD SE [Multi-Audio]
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242999
+#EXTINF:-1 tvg-id="viasatfotboll.se" tvg-name="|SW|Viasat Fotboll SE" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/VIASATFOTBOLLHD.png" group-title="EU| SWEDEN",|SW|Viasat Fotboll SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242998
+#EXTINF:-1 tvg-id="viasatfotboll.se" tvg-name="|SW|Viasat Fotboll FHD SE" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/VIASATFOTBOLLHD.png" group-title="EU| SWEDEN",|SW|Viasat Fotboll FHD SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242997
+#EXTINF:-1 tvg-id="sportkanalen.se" tvg-name="|SW|Sportkanalen SE" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/SPORTKANALENHD.png" group-title="EU| SWEDEN",|SW|Sportkanalen SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242996
+#EXTINF:-1 tvg-id="sportkanalen.se" tvg-name="|SW|Sportkanalen HD SE" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/SPORTKANALENHD.png" group-title="EU| SWEDEN",|SW|Sportkanalen HD SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242995
+#EXTINF:-1 tvg-id="sportkanalen.se" tvg-name="|SW|Sportkanalen FHD SE" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/SPORTKANALENHD.png" group-title="EU| SWEDEN",|SW|Sportkanalen FHD SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242994
+#EXTINF:-1 tvg-id="" tvg-name="|SW|SportExpressen TV HD SE" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/SPORTEXPRESSENTV.png" group-title="EU| SWEDEN",|SW|SportExpressen TV HD SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242993
+#EXTINF:-1 tvg-id="" tvg-name="|SW|NFL Network FHD SE" tvg-logo="http://185.165.243.195/logo_plus/USA/NFLNETWORK.png" group-title="EU| SWEDEN",|SW|NFL Network FHD SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242992
+#EXTINF:-1 tvg-id="" tvg-name="|SW|Extreme Sports HD SE" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/GINXESPORTSTV.png" group-title="EU| SWEDEN",|SW|Extreme Sports HD SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242991
+#EXTINF:-1 tvg-id="eurosport2.se" tvg-name="|SW|EuroSport 2 SE" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/EUROSPORT2.png" group-title="EU| SWEDEN",|SW|EuroSport 2 SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242990
+#EXTINF:-1 tvg-id="eurosport2.se" tvg-name="|SW|EuroSport 2 FHD SE [Multi-Audio]" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/EUROSPORT2.png" group-title="EU| SWEDEN",|SW|EuroSport 2 FHD SE [Multi-Audio]
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242989
+#EXTINF:-1 tvg-id="eurosport.se" tvg-name="|SW|EuroSport 1 SE [Multi-Audio]" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/EUROSPORT1HD.png" group-title="EU| SWEDEN",|SW|EuroSport 1 SE [Multi-Audio]
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242988
+#EXTINF:-1 tvg-id="eurosport.se" tvg-name="|SW|EuroSport 1 FHD SE" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/EUROSPORT1HD.png" group-title="EU| SWEDEN",|SW|EuroSport 1 FHD SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242987
+#EXTINF:-1 tvg-id="" tvg-name="|SW|ESport TV HD SE" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/ESPORTSTV.png" group-title="EU| SWEDEN",|SW|ESport TV HD SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/242986
+#EXTINF:-1 tvg-id="" tvg-name="##### CINEMA #####" tvg-logo="https://cdn.countryflags.com/thumbs/sweden/flag-waving-250.png" group-title="EU| SWEDEN",##### CINEMA #####
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/243017
+#EXTINF:-1 tvg-id="" tvg-name="|SW| V Film Action HD" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/VIASATFILMACTION.png" group-title="EU| SWEDEN",|SW| V Film Action HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/243034
+#EXTINF:-1 tvg-id="" tvg-name="|SW| V Film Family" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/VIASATFILMFAMILIY.png" group-title="EU| SWEDEN",|SW| V Film Family
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/243035
+#EXTINF:-1 tvg-id="" tvg-name="|SW| V Film Hits HD" tvg-logo="https://www.google.com/search?q=v+film+hits&client=firefox-b-d&sxsrf=ALeKk03_aeAcslzhMJhYRzgpkERERl2FBQ:1612615781580&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiCvMf2pdXuAhUgXhUIHewbBzkQ_AUoAnoECAYQBA&biw=946&bih=954#imgrc=67LboDOakZ6TFM" group-title="EU| SWEDEN",|SW| V Film Hits HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/243036
+#EXTINF:-1 tvg-id="" tvg-name="|SW| V Series HD" tvg-logo="https://sappa.se/media/baa5236f-4913-499a-8683-bbec61974346/axzphg/programikoner_500_500/vseries_hd_160x160.png?w=160&h=90&action=fill" group-title="EU| SWEDEN",|SW| V Series HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/243037
+#EXTINF:-1 tvg-id="cmorefirst.se" tvg-name="|SW|C More First FHD SE [Multi-Sub]" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/CMOREFIRST.png" group-title="EU| SWEDEN",|SW|C More First FHD SE [Multi-Sub]
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/243026
+#EXTINF:-1 tvg-id="cmorefirst.se" tvg-name="|SW|C More First SE" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/CMOREFIRST.png" group-title="EU| SWEDEN",|SW|C More First SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/243027
+#EXTINF:-1 tvg-id="cmorehits.se" tvg-name="|SW|C More Hits FHD SE [Multi-Sub]" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/CMOREHITS.png" group-title="EU| SWEDEN",|SW|C More Hits FHD SE [Multi-Sub]
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/243028
+#EXTINF:-1 tvg-id="cmorehits.se" tvg-name="|SW|C More Hits SE" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/CMOREHITS.png" group-title="EU| SWEDEN",|SW|C More Hits SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/243029
+#EXTINF:-1 tvg-id="cmoreseries.se" tvg-name="|SW|C More Series FHD SE [Multi-Sub]" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/CMORESERIES.png" group-title="EU| SWEDEN",|SW|C More Series FHD SE [Multi-Sub]
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/243030
+#EXTINF:-1 tvg-id="cmoreseries.se" tvg-name="|SW|C More Series SE" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/CMORESERIES.png" group-title="EU| SWEDEN",|SW|C More Series SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/243031
+#EXTINF:-1 tvg-id="cmorestars.se" tvg-name="|SW|C More Stars FHD SE [Multi-Sub]" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/CMORESTARS.png" group-title="EU| SWEDEN",|SW|C More Stars FHD SE [Multi-Sub]
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/243032
+#EXTINF:-1 tvg-id="cmorestars.se" tvg-name="|SW|C More Stars SE" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/CMORESTARS.png" group-title="EU| SWEDEN",|SW|C More Stars SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/243033
+#EXTINF:-1 tvg-id="paramountnetworkhd.se" tvg-name="|SW|Paramount Network FHD SE" tvg-logo="http://185.165.243.195/logo_plus/USA/PARAMOUNT.png" group-title="EU| SWEDEN",|SW|Paramount Network FHD SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/243038
+#EXTINF:-1 tvg-id="paramountnetwork.se" tvg-name="|SW|Paramount Network SE" tvg-logo="http://185.165.243.195/logo_plus/USA/PARAMOUNT.png" group-title="EU| SWEDEN",|SW|Paramount Network SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/243039
+#EXTINF:-1 tvg-id="tv4film.se" tvg-name="|SW|TV4 Film (B) SE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/TV4_logo.png" group-title="EU| SWEDEN",|SW|TV4 Film (B) SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/243050
+#EXTINF:-1 tvg-id="tv4film.se" tvg-name="|SW|TV4 Film SE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/TV4_logo.png" group-title="EU| SWEDEN",|SW|TV4 Film SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/243051
+#EXTINF:-1 tvg-id="tv4guld.se" tvg-name="|SW|TV4 Guld (B) SE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/TV4_logo.png" group-title="EU| SWEDEN",|SW|TV4 Guld (B) SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/243052
+#EXTINF:-1 tvg-id="tv4guld.se" tvg-name="|SW|TV4 Guld SE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/TV4_logo.png" group-title="EU| SWEDEN",|SW|TV4 Guld SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/243053
+#EXTINF:-1 tvg-id="viasatfilmaction.se" tvg-name="|SW|Viasat Film Action FHD SE [Multi-Sub]" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/VIASATFILMACTION.png" group-title="EU| SWEDEN",|SW|Viasat Film Action FHD SE [Multi-Sub]
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/243040
+#EXTINF:-1 tvg-id="viasatfilmaction.se" tvg-name="|SW|Viasat Film Action SE" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/VIASATFILMACTION.png" group-title="EU| SWEDEN",|SW|Viasat Film Action SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/243041
+#EXTINF:-1 tvg-id="viasatfilmfamily.se" tvg-name="|SW|Viasat Film Family HD SE" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/VIASATFILMFAMILIY.png" group-title="EU| SWEDEN",|SW|Viasat Film Family HD SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/243042
+#EXTINF:-1 tvg-id="viasatfilmfamily.se" tvg-name="|SW|Viasat Film Family SE" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/VIASATFILMFAMILIY.png" group-title="EU| SWEDEN",|SW|Viasat Film Family SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/243043
+#EXTINF:-1 tvg-id="viasatfilmhits.se" tvg-name="|SW|Viasat Film Hits FHD SE [Multi-Sub]" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/VIASATFILMHITS.png" group-title="EU| SWEDEN",|SW|Viasat Film Hits FHD SE [Multi-Sub]
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/243044
+#EXTINF:-1 tvg-id="viasatfilmhits.se" tvg-name="|SW|Viasat Film Hits SE" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/VIASATFILMHITS.png" group-title="EU| SWEDEN",|SW|Viasat Film Hits SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/243045
+#EXTINF:-1 tvg-id="viasatfilmpremiere.se" tvg-name="|SW|Viasat Film Premiere FHD SE [Multi-Sub]" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/VIASATFILMPREMIERE.png" group-title="EU| SWEDEN",|SW|Viasat Film Premiere FHD SE [Multi-Sub]
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/243046
+#EXTINF:-1 tvg-id="" tvg-name="|SW| V Film Premiere HD" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/VIASATFILMPREMIERE.png" group-title="EU| SWEDEN",|SW| V Film Premiere HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/243088
+#EXTINF:-1 tvg-id="viasatfilmpremiere.se" tvg-name="|SW|Viasat Film Premiere SE" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/VIASATFILMPREMIERE.png" group-title="EU| SWEDEN",|SW|Viasat Film Premiere SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/243047
+#EXTINF:-1 tvg-id="viasatseries.se" tvg-name="|SW|Viasat Series FHD SE [Multi-Sub]" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/VIASATFILMSERIES.png" group-title="EU| SWEDEN",|SW|Viasat Series FHD SE [Multi-Sub]
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/243048
+#EXTINF:-1 tvg-id="viasatseries.se" tvg-name="|SW|Viasat Series SE" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/VIASATFILMSERIES.png" group-title="EU| SWEDEN",|SW|Viasat Series SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/243049
+#EXTINF:-1 tvg-id="" tvg-name="##### ENTERTAINMENT #####" tvg-logo="https://cdn.countryflags.com/thumbs/sweden/flag-waving-250.png" group-title="EU| SWEDEN",##### ENTERTAINMENT #####
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/243054
+#EXTINF:-1 tvg-id="" tvg-name="|SW| E! Entertainment HD" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/E!ENTERTAINMENTTV.png" group-title="EU| SWEDEN",|SW| E! Entertainment HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/243066
+#EXTINF:-1 tvg-id="axesstv.se" tvg-name="|SW|Axess TV SE" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/AXESSTV.png" group-title="EU| SWEDEN",|SW|Axess TV SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/243063
+#EXTINF:-1 tvg-id="bbcbrit.se" tvg-name="|SW|BBC Brit FHD SE [Multi-Sub]" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/BBCBRIT.png" group-title="EU| SWEDEN",|SW|BBC Brit FHD SE [Multi-Sub]
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/243064
+#EXTINF:-1 tvg-id="bbcbrit.se" tvg-name="|SW|BBC Brit SE" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/BBCBRIT.png" group-title="EU| SWEDEN",|SW|BBC Brit SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/243065
+#EXTINF:-1 tvg-id="" tvg-name="|SW|E Entertainment US HD SE" tvg-logo="http://185.165.243.195/logo_plus/USA/E!.png" group-title="EU| SWEDEN",|SW|E Entertainment US HD SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/243067
+#EXTINF:-1 tvg-id="" tvg-name="|SW|Expressen TV HD SE" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/EXPRESSENTV.png" group-title="EU| SWEDEN",|SW|Expressen TV HD SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/243068
+#EXTINF:-1 tvg-id="" tvg-name="|SW|Expressen TV SE" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/EXPRESSENTV.png" group-title="EU| SWEDEN",|SW|Expressen TV SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/243069
+#EXTINF:-1 tvg-id="" tvg-name="|SW|Fashion  SE" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/c7/Fashion_TV_Logo.png" group-title="EU| SWEDEN",|SW|Fashion  SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/243070
+#EXTINF:-1 tvg-id="" tvg-name="|SW|Outdoor Channel FHD SE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/eb/Outdoor_Channel_2017.png" group-title="EU| SWEDEN",|SW|Outdoor Channel FHD SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/243071
+#EXTINF:-1 tvg-id="sfkanalen.se" tvg-name="|SW|SF-Kanalen SE [Multi-Sub]" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/SF-Kanalen.png" group-title="EU| SWEDEN",|SW|SF-Kanalen SE [Multi-Sub]
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/243072
+#EXTINF:-1 tvg-id="tlc.se" tvg-name="|SW|TLC FHD SE" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/TLCHD.png" group-title="EU| SWEDEN",|SW|TLC FHD SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/243055
+#EXTINF:-1 tvg-id="tlc.se" tvg-name="|SW|TLC HD SE" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/TLCHD.png" group-title="EU| SWEDEN",|SW|TLC HD SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/243056
+#EXTINF:-1 tvg-id="" tvg-name="|SW|Trace Urban FHD SE" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/TRACEURBAN.png" group-title="EU| SWEDEN",|SW|Trace Urban FHD SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/243057
+#EXTINF:-1 tvg-id="travel.se" tvg-name="|SW|Travel Channel FHD SE" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/TRAVELCHANNELHD.png" group-title="EU| SWEDEN",|SW|Travel Channel FHD SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/243058
+#EXTINF:-1 tvg-id="" tvg-name="|SW|TV Malmo SE" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/TVMalmo.png" group-title="EU| SWEDEN",|SW|TV Malmo SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/243059
+#EXTINF:-1 tvg-id="" tvg-name="|SW|TV4 Blekinge SE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/TV4_logo.png" group-title="EU| SWEDEN",|SW|TV4 Blekinge SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/243060
+#EXTINF:-1 tvg-id="tv4fakta.se" tvg-name="|SW|TV4 Fakta (B) SE" tvg-logo="" group-title="EU| SWEDEN",|SW|TV4 Fakta (B) SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/243061
+#EXTINF:-1 tvg-id="tv4fakta.se" tvg-name="|SW|TV4 Fakta SE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/TV4_logo.png" group-title="EU| SWEDEN",|SW|TV4 Fakta SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/243062
+#EXTINF:-1 tvg-id="" tvg-name="|SW|Vision Sverige HD SE" tvg-logo="https://visionsverige.com/dev/wp-content/uploads/2019/06/tv_vision_sverige_no.png" group-title="EU| SWEDEN",|SW|Vision Sverige HD SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/243073
+#EXTINF:-1 tvg-id="" tvg-name="##### MUSIC #####" tvg-logo="https://cdn.countryflags.com/thumbs/sweden/flag-waving-250.png" group-title="EU| SWEDEN",##### MUSIC #####
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/243074
+#EXTINF:-1 tvg-id="mtv.se" tvg-name="|SW| MTV HD" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/MTVHD.png" group-title="EU| SWEDEN",|SW| MTV HD
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/243081
+#EXTINF:-1 tvg-id="mtv.se" tvg-name="|SW| MTV Hits" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/MTVHD.png" group-title="EU| SWEDEN",|SW| MTV Hits
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/243082
+#EXTINF:-1 tvg-id="" tvg-name="|SW|Barnmusik TV FHD SE" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple62/v4/45/f2/d3/45f2d3e4-2d6f-7be5-32dc-ac179ae05c5b/mzm.hrnxfbzs.png/400x400.png" group-title="EU| SWEDEN",|SW|Barnmusik TV FHD SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/243085
+#EXTINF:-1 tvg-id="" tvg-name="|SW|MTV Base SE" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/MTVHD.png" group-title="EU| SWEDEN",|SW|MTV Base SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/243075
+#EXTINF:-1 tvg-id="" tvg-name="|SW|MTV Dance SE" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/MTVHD.png" group-title="EU| SWEDEN",|SW|MTV Dance SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/243076
+#EXTINF:-1 tvg-id="mtv.se" tvg-name="|SW|MTV HD SE [Multi-Sub]" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/MTVHD.png" group-title="EU| SWEDEN",|SW|MTV HD SE [Multi-Sub]
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/243077
+#EXTINF:-1 tvg-id="" tvg-name="|SW|MTV Hits SE" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/MTVHD.png" group-title="EU| SWEDEN",|SW|MTV Hits SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/243078
+#EXTINF:-1 tvg-id="mtv.se" tvg-name="|SW|MTV Live FHD SE" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/MTVHD.png" group-title="EU| SWEDEN",|SW|MTV Live FHD SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/243079
+#EXTINF:-1 tvg-id="mtv.se" tvg-name="|SW|MTV Rocks SE" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/MTVHD.png" group-title="EU| SWEDEN",|SW|MTV Rocks SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/243080
+#EXTINF:-1 tvg-id="vh1.se" tvg-name="|SW|VH1 Classic SE" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/VH1CLASSIC.png" group-title="EU| SWEDEN",|SW|VH1 Classic SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/243083
+#EXTINF:-1 tvg-id="vh1.se" tvg-name="|SW|VH1 SE" tvg-logo="http://185.165.243.195/logo_plus/SCANDINAVIAN/VH1.png" group-title="EU| SWEDEN",|SW|VH1 SE
+http://net.azers.online:8080/jzao2q6rd3/7zlvez3tp7/243084
 #EXTINF:-1 tvg-id="" tvg-name="UK: Sky History 2 FHD" tvg-logo="" group-title="United Kingdom",UK: Sky History 2 FHD
 http://swedenplay.one:8080/latif_ahmadi@msn.com2/tE8TuAgc6x/161157
 #EXTINF:-1 tvg-id="" tvg-name="UK: Sky Crime FHD" tvg-logo="" group-title="United Kingdom",UK: Sky Crime FHD
